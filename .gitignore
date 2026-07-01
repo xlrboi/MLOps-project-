@@ -87,3 +87,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+notebooks/
+local_s3/
+myenv
