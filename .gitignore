@@ -89,4 +89,5 @@ target/
 .mypy_cache/
 notebooks/
 local_s3/
-myenv
+myenv/
+models/
